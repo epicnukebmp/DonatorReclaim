@@ -1,0 +1,5 @@
+name: DonatorReclaim
+main: com.sgerlyn.donorreclaim.DonatorReclaim
+author: SGerlyn
+version: ${project.version}
+depend: [Vault]

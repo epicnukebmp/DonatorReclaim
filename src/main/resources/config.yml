@@ -1,0 +1,6 @@
+# DonorReclaim by SGerlyn.
+# Placeholder is {name} for the player's name.
+
+vip:
+  - '/eco give {name} 1000'
+  - '/message {name} You have been given $1000!'
