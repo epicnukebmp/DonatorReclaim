@@ -1,4 +1,4 @@
-package com.sgerlyn.donorreclaim;
+package net.hchayburn.donorreclaim;
 
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;

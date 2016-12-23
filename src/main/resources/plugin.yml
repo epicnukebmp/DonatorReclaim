@@ -1,5 +1,5 @@
 name: DonatorReclaim
-main: com.sgerlyn.donorreclaim.DonatorReclaim
-author: SGerlyn
+main: net.hchayburn.donorreclaim.DonatorReclaim
+author: hchayburn
 version: ${project.version}
 depend: [Vault]
